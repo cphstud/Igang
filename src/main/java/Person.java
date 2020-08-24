@@ -1,13 +1,5 @@
 public class Person {
-    CPRNr cprnr;
-    String navn;
-
-    public Person() {
-
-    }
-
-    public void setCprnr(CPRNr cprnr){
-        this.cprnr = cprnr;
-    }
-
+    private CPRNumber cprNumber;
+    private Name name;
+    private Address address;
 }

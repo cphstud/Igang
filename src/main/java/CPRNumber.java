@@ -1,4 +1,4 @@
-public class CPRNr {
+public class CPRNumber {
     String cprnummer;
 
 
